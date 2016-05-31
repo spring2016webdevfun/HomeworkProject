@@ -1,0 +1,43 @@
+@import url(https://fonts.googleapis.com/css?family=Roboto:400,500,700);
+
+@import();
+
+header {
+    background: url("images/logo.png") no-repeat;
+}
+nav {
+    float: right;
+}
+
+body {
+    margin: 0;
+    font-family: 'Roboto', sans-serif;
+    }
+
+ul{
+    text-align: center;
+}
+
+li {
+    list-style: none;
+    display: inline-block;
+}
+
+span {
+    display: block;
+}
+
+h1 {
+    text-align: center;
+}
+
+#mission {
+    background: url("images/main_image.png") no-repeat;
+    width: 1440px;
+    height: 600px;
+}
+
+.workwithus {
+    text-align: center;
+    background: url("images/work_with_us_button.png") no-repeat;
+}
